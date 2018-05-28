@@ -1,2 +1,3 @@
+<<<<<<< HEAD
 hola mundo
-ejercicio
+Listo solucionado 2
